@@ -1,0 +1,15 @@
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\bin\Debug\Produkt til OSO.exe.config
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\bin\Debug\Produkt til OSO.exe
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\bin\Debug\Produkt til OSO.pdb
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt til OSO.csproj.AssemblyReference.cache
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt til OSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt_til_OSO.Form1.resources
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt_til_OSO.Properties.Resources.resources
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt til OSO.csproj.GenerateResource.cache
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt til OSO.csproj.CoreCompileInputs.cache
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt til OSO.exe
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt til OSO.pdb
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\bin\Debug\Produkt til OSO.exe.manifest
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\bin\Debug\Produkt til OSO.application
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt til OSO.exe.manifest
+C:\Users\Ask\source\repos\Produkt til OSO\Produkt til OSO\obj\Debug\Produkt til OSO.application
